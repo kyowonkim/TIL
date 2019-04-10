@@ -2,4 +2,4 @@
 
 ## today i learned
 
-### good! hello ~
+### NOT SO GOOD!
